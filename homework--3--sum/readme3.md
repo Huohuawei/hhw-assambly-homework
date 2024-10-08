@@ -20,12 +20,12 @@
 
 - 使用 DOS 中断 `int 21h` 的功能号 `09h` 来输出字符串。
 
-![示例图片](img\作业三\屏幕截图 2024-10-08 203259.png)
+![](hhw-assembly-homework\img\作业三\屏幕截图 2024-10-08 203259.png)
 ## C语言反汇编：
 
 C语言实现：
 
-![](D:\desktop_file\大学\大三上\汇编语言\hhw-assembly-homework\img\作业三\屏幕截图 2024-10-08 203934.png)
+![](hhw-assembly-homework\img\作业三\屏幕截图 2024-10-08 203934.png)
 
 反汇编：
 
